@@ -13,3 +13,4 @@ PLaybook "descriptive_stats" : l'objectif ici et de trouver des statistiques de 
 Ce qu'on essaie de visualiser :
 
 1. L'importance de la gare de départ et d'arrivée dans le retard du train
+2. Une corrélation avec la durée moyenne du retard
